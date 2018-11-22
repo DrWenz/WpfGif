@@ -25,5 +25,5 @@ How to use it
 * Set source to image
 
   ```xaml
-  <Image GIF:GifImageBehavior.GIFSource="C:\Users\marku\Pictures\GIF\earth.gif" />
+  <Image GIF:GifImageBehavior.GIFSource="<FILEPATH>" />
   ```
